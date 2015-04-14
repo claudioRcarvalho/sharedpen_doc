@@ -1,1 +1,5 @@
 programa: Pencil http://pencil.evolus.vn/
+
+Problemas de programa: 
+	1. Labels ficam invisiveis depois de fazer load
+		Solucao: editar cada label
