@@ -2,4 +2,5 @@ programa: Pencil http://pencil.evolus.vn/
 
 Problemas de programa: 
 	1. Labels ficam invisiveis depois de fazer load
-		Solucao: editar cada label
+		Solucao 1: editar cada label 
+		Solucao 2: guardar com formato PNG
