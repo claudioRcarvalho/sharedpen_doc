@@ -9,7 +9,6 @@ create table utilizadores(
     pass nvarchar(50) NOT NULL,
 	nome nvarchar(20) NOT NULL, 
     contacto int(9)   NOT NULL,
-    id_agrupamento int NULL,
     id_role int NOT NULL,
     primary key(id_utilizador),
     foreign key (id_role) references roles(id_role)
@@ -27,7 +26,6 @@ create table agrupamento(
 	id_agrupamento int NOT NULL auto_increment,
     nome nvarchar(20) NOT NULL,
     contacto int(9) NOT NULL,
-    id_responsavel int NOT NULL,
 	primary key (id_agrupamento)
 )ENGINE=InnoDB;
 
