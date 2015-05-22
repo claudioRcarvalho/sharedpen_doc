@@ -1,0 +1,52 @@
+extends layout
+
+block content
+    h1= title
+
+    // Wrapper
+    #wrapper
+
+        // USER INFO
+        #userInfo
+            h2 Informacaçao do Utilizador
+            p
+                strong Nome:
+                |  <span id='userInfoName'></span>
+                br
+                strong Idade:
+                |  <span id='userInfoAge'></span>
+                br
+                strong Genero:
+                |  <span id='userInfoGender'></span>
+                br
+        // /USER INFO
+        
+        // USER LIST
+        h2 Lista de Utilizadores
+        #userList
+            table
+                thead
+                    th UserName
+                    th Nome
+                    th Contacto
+                    th Tipo de Utilizador
+                    th Delete?
+                tbody
+        // /USER LIST
+        
+        // ADD USER
+        h2 Add User
+        #addUser
+            fieldset
+                input#inputUserName(type='text', placeholder='Username')
+                input#inputUserNome(type='text', placeholder='Nome')
+                br
+                input#inputUserContacto(type='text', placeholder='Contacto')
+                input#inputUserType(type='text', placeholder='Tipo de Utilizador')
+                br
+                input#inputUserPass(type='text', placeholder='Pass')
+                br
+                button#btnAddUser Add User
+        // /ADD USER
+
+    // /WRAPPER
