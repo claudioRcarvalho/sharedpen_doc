@@ -6,3 +6,6 @@ o nosso colega Florencio Alexandre reparou que existe uma opção do SQL que permi
 no entanto, esta opção cria uma tabela nova, com os dados do EXCEL.
 Na minha opnião é uma boa ideia a criação de um trigger com um procedimento que apos a inserção de dados
 apartir do EXCEL, copie os dados dessa tabela para a tabela correcta.
+
+Foi necessário também realizar pequenas alterações a algumas tabelas, por causa do valor de VarChar disponivel num campo,
+e também na tabela devido a um erro relacionado com chaves forasteiras
