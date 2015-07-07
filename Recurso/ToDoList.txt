@@ -1,0 +1,6 @@
+- Enriquecer os modelos dos textos;
+- Enriquecer a apresentação dos colaboradores do projecto (os professores não estão a aparecer);
+	. Os professores já aparecem.
+- Melhorar a informação que se encontra na BD em relação a professores, alunos, escolas, inserir dados que parecam reais
+	. Só falta conseguir inserir uma imagem a cada perfil
+- Elaborar um projecto novo, com estes elementos melhorados;
