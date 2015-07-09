@@ -4,5 +4,5 @@
 	. As apresentações finais dos colaboradores do projecto foram melhoradas.
 - Melhorar a informação que se encontra na BD em relação a professores, alunos, escolas, inserir dados que parecam reais
 	. Informação de Professores e alunos, que parecem reais já foram inseridos
-	. Só falta conseguir inserir uma imagem a cada perfil
+	. Já existem imagem associadas a cada perfil, que parecam reais
 - Elaborar um projecto novo, com estes elementos melhorados;
