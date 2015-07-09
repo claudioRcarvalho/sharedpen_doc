@@ -1,1 +1,1 @@
-as imagens tiveram de ficar todas com o tamanho de 250*250
+as imagens tiveram de ficar todas com o tamanho de 200*200 em formato jpeg
