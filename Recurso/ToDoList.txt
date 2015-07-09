@@ -1,4 +1,5 @@
 - Enriquecer os modelos dos textos;
+	. Foram criadores 5 molduras que poderam ser usadas, caso assim seja pretendido, nas páginas
 - Enriquecer a apresentação dos colaboradores do projecto (os professores não estão a aparecer);
 	. Os professores já aparecem.
 	. As apresentações finais dos colaboradores do projecto foram melhoradas.
@@ -6,3 +7,4 @@
 	. Informação de Professores e alunos, que parecem reais já foram inseridos
 	. Já existem imagem associadas a cada perfil, que parecam reais
 - Elaborar um projecto novo, com estes elementos melhorados;
+	. 
